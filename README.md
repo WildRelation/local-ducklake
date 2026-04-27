@@ -14,7 +14,7 @@ Clone the repository and navigate to the tutorial folder:
 
 ```bash
 git clone https://github.com/wildrelation/local-ducklake.git
-cd ducklake-cloud/tutorial
+cd local-ducklake
 ```
 
 ---
