@@ -23,7 +23,7 @@ cd local-ducklake
 
 ### Step 1 — Start the services
 
-Run the following command inside the `tutorial/` folder:
+Run the following command inside the `local-ducklake` folder:
 
 ```bash
 docker compose up -d
